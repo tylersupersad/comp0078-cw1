@@ -1,1 +1,1 @@
-# supervised-learning-coursework-1
+# Supervised Learning Coursework 1
