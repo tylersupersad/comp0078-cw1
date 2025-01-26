@@ -146,7 +146,7 @@ def average_mse_all_attributes(data, num_runs=20):
     return avg_train_mse, avg_test_mse
 
 # load data from boston.csv
-def load_data(data_file="boston.csv"):
+def load_data(data_file="../data/boston.csv"):
     data = []
     try:
         # open and read csv file
